@@ -1,4 +1,4 @@
-# MonkScale_Personalized_Sunscreen
+# MonkScale Personalized Sunscreen
 Personalized Sunscreen Recommendation System Based on Computer Vision and the Monk Skin Tone Scale
 
 # Sistema de Recomendação Personalizada de Protetor Solar  
@@ -49,5 +49,9 @@ O sistema analisa imagens faciais, estima o tom de pele pela **Monk Skin Tone Sc
 	Exemplo .json
 	{"value": 5.5}
 
+A licença aplica-se somente ao código-fonte.
+
+Nenhum dataset, imagem ou material sensível está incluído 
+ou licenciado neste repositório.
 
 
